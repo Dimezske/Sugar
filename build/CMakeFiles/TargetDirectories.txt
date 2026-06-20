@@ -1,0 +1,3 @@
+/root/Desktop/Sugar/build/CMakeFiles/SugarApp.dir
+/root/Desktop/Sugar/build/CMakeFiles/edit_cache.dir
+/root/Desktop/Sugar/build/CMakeFiles/rebuild_cache.dir

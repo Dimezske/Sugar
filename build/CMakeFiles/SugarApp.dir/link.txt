@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/SugarApp.dir/link.d CMakeFiles/SugarApp.dir/main.cpp.o CMakeFiles/SugarApp.dir/sugar.cpp.o CMakeFiles/SugarApp.dir/coffee.cpp.o CMakeFiles/SugarApp.dir/ui.cpp.o -o SugarApp  /usr/local/lib/libraylib.a -lm -lpthread -ldl -lrt -lX11
